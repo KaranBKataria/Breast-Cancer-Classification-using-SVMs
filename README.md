@@ -1,5 +1,3 @@
-Performing PCA for dimensionality reduction and use the top number of Principal Components to train the SVM algorithm for classification. 
-
 The objective of this project was to find an appropriate classifier that can accurately classify patients into 1 of 2 classes: Malignant (Cancerous) and Benign (Not Cancerous) to predict presence of breast cancer. 
 
 The intial step was to explore the dataset for the presence of any missing or duplicated values. After quick exploration, it was evident the dataset had already been cleaned. 
